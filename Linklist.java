@@ -14,6 +14,8 @@ public class Linklist
         }
     
     }
+
+    
     public static void main(String sd[]){
         Linklist list=new Linklist();
 
